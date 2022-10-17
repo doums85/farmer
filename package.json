@@ -1,0 +1,12 @@
+{
+  "name": "the-farmer",
+  "version": "1.0.0",
+  "description": "Learning Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Doums",
+  "license": "ISC"
+}
